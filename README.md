@@ -20,13 +20,7 @@ My approach combines technical excellence, structured methodologies, and close c
        title="Me siga no Linkedin" 
        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
    />
-<a href="https://github.com/fernandoscherer?tab=repositories&sort=stargazers">
-   <img 
-       alt="Total de estrelas" 
-       title="Total de estrelas GitHub" 
-       src="https://custom-icon-badges.demolab.com/github/stars/fernandoscherer?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-   />
-</a>
+
 <a href="https://github.com/fernandoscherer?tab=followers">
    <img 
        alt="Seguidores" 
@@ -40,16 +34,18 @@ My approach combines technical excellence, structured methodologies, and close c
 
 ### ⚙️ Tecnologias e Ferramentas
 
+<img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"/>
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"/>
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="Tailwind" title="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="left" alt="Bubble" title="Bubble.io" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bubble/bubble-original.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="N8n" title="N8n.io" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-icon.svg"/>
+
+<img align="left" alt="Joomla" title="Joomla" width="30px" style="padding-right:10px;" src="https://www.flaticon.com/free-icon/social_15466261?term=joomla&page=1&position=5&origin=tag&related_id=15466261"/>
 
 <br />
 <br />
