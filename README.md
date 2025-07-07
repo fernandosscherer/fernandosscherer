@@ -1,12 +1,12 @@
 # 👨🏻‍💻 Fernando Scherer
 
-**`Web Designer & Desenvolvedor WordPress | Especialista em Automação com IA`**
+**`Web Designer (20+ yrs)| Webmaster | WordPress | Joomla | UX/UI | E-Commerce | Web Hosting | AI Agents`**
 
-Hi! I'm Fernando Scherer, Web developer with 20 years of experience in website development, systems, e-commerce, and cloud services, now applying this knowledge to create innovative AI automation solutions. 
+Hi! I'm Fernando Scherer, a Web Developer with 20 years of experience in website development, systems, e-commerce, and cloud services — now applying this expertise to build innovative AI-powered automation solutions.
 
-Specialist in PHP, HTML, CSS, MySQL and CDN (Cloudflare), with deep expertise in WordPress, Joomla, and e-commerce platforms. I apply UX/UI principles to create intuitive interfaces that deliver measurable results for clients.
+I specialize in PHP, HTML, CSS, MySQL, and CDN technologies like Cloudflare, with deep proficiency in WordPress, Joomla, and various e-commerce platforms. I combine solid technical knowledge with UX/UI principles to design intuitive and results-driven user experiences.
 
-My approach combines technical excellence, structured methodologies, and close collaboration with stakeholders to develop functional solutions that stand out in the market. I seek to connect with professionals and companies interested in technological innovation, automation, and digital transformation.Web developer with 20 years of experience in website development, systems, e-commerce, and cloud services, now applying this knowledge to create innovative AI automation solutions. Specialist in PHP, HTML, CSS, MySQL and CDN (Cloudflare), with deep expertise in WordPress, Joomla, and e-commerce platforms. I apply UX/UI principles to create intuitive interfaces that deliver measurable results for clients. My approach combines technical excellence, structured methodologies, and close collaboration with stakeholders to develop functional solutions that stand out in the market. I seek to connect with professionals and companies interested in technological innovation, automation, and digital transformation.
+My approach blends technical excellence, structured development methodologies, and close collaboration with stakeholders to deliver functional, high-impact digital solutions. I'm eager to connect with professionals and companies focused on technological innovation, automation, and digital transformation.
 
 
 ---
