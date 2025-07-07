@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Fernando Scherer
 
-**`Web Designer (20+ yrs)| Webmaster | WordPress | Joomla | UX/UI | E-Commerce | Web Hosting | AI Agents`**
+**Web Designer (20+ yrs)| Webmaster | WordPress | Joomla | UX/UI | E-Commerce | Web Hosting | AI Agents**
 
 Hi! I'm Fernando Scherer, a Web Developer with 20 years of experience in website development, systems, e-commerce, and cloud services — now applying this expertise to build innovative AI-powered automation solutions.
 
