@@ -1,5 +1,4 @@
 # 👨🏻‍💻 Fernando Scherer
-**Digital Solutions Architect and Senior WordPress Developer with over 20 years of experience**
 
 Digital Solutions Architect and Senior WordPress Developer with over 20 years of experience designing, building, and scaling high-performance digital ecosystems.
 
@@ -8,7 +7,6 @@ Founder of Selfcomp and Co-Founder of Eu Dirijo platform, delivering more than 5
 Specialized in scalable system design, performance optimization, preventive technical architecture, and integration of digital operations with business strategy. Contributed to 20–30% average sales growth in e-commerce projects through optimized customer journeys and integrated online/offline operations.
 
 Comfortable working in fully remote environments, managing projects end-to-end — from strategy and architecture to deployment and long-term maintenance.
-
 
 
 ---
