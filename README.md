@@ -1,12 +1,15 @@
 # 👨🏻‍💻 Fernando Scherer
+**Digital Solutions Architect and Senior WordPress Developer with over 20 years of experience**
 
-**Web Designer (20+ yrs)| Webmaster | WordPress | Joomla | UX/UI | E-Commerce | Web Hosting | AI Agents**
+*PROFESSIONAL SUMMARY*
+Digital Solutions Architect and Senior WordPress Developer with over 20 years of experience designing, building, and scaling high-performance digital ecosystems.
 
-Hi! I'm Fernando Scherer, a Web Developer with 20 years of experience in website development, systems, e-commerce, and cloud services — now applying this expertise to build innovative AI-powered automation solutions.
+Founder of Selfcomp and Co-Founder of Eu Dirijo platform, delivering more than 500 projects across multiple industries. Strong expertise in WordPress architecture, WooCommerce implementation, infrastructure management, and AI-driven automation.
 
-I specialize in PHP, HTML, CSS, MySQL, and CDN technologies like Cloudflare, with deep proficiency in WordPress, Joomla, and various e-commerce platforms. I combine solid technical knowledge with UX/UI principles to design intuitive and results-driven user experiences.
+Specialized in scalable system design, performance optimization, preventive technical architecture, and integration of digital operations with business strategy. Contributed to 20–30% average sales growth in e-commerce projects through optimized customer journeys and integrated online/offline operations.
 
-My approach blends technical excellence, structured development methodologies, and close collaboration with stakeholders to deliver functional, high-impact digital solutions. I'm eager to connect with professionals and companies focused on technological innovation, automation, and digital transformation.
+Comfortable working in fully remote environments, managing projects end-to-end — from strategy and architecture to deployment and long-term maintenance.
+
 
 
 ---
