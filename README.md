@@ -6,7 +6,7 @@ I build digital products, AI-powered automation, and scalable web platforms.
 
 With more than **20 years of experience**, I've delivered **500+ digital projects** ranging from WordPress and WooCommerce ecosystems to cloud infrastructure, automation workflows, and custom business applications.
 
-Currently I'm focused on building fintech products, risk management tools, AI agents, and intelligent automation through **Data Maple AI** and **Investing Social**.
+Currently I'm focused on building fintech products, risk management tools, AI agents, and intelligent automation through **Data Maple AI**.
 
 ## 🚀 What I work with
 
