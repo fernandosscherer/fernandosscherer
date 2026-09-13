@@ -1,18 +1,22 @@
 # 👋 Hi, I'm Fernando Scherer
 
-**Technical Founder | Digital Solutions Architect | Senior WordPress Developer**
+**Senior WordPress Developer & Web Designer | AI-Powered Product Builder | 20+ Years**
 
-I build digital products, AI-powered automation, and scalable web platforms.
+I design, build, and ship digital products end-to-end — websites, e-commerce platforms, SaaS products, and AI-native applications.
 
-With more than **20 years of experience**, I've delivered **500+ digital projects** ranging from WordPress and WooCommerce ecosystems to cloud infrastructure, automation workflows, and custom business applications.
+With 20+ years of experience, I've delivered 500+ digital projects, from WordPress and WooCommerce ecosystems to cloud infrastructure, automation workflows, and custom business applications.
 
-Currently I'm focused on building fintech products, risk management tools, AI agents, and intelligent automation through **Data Maple AI**.
+Since 2024, I've been building **Data Maple AI**, a venture studio focused on AI-native SaaS products, automation platforms, and AI agents:
+
+- **[Opera Trader](#)** — AI-powered trading platform with real-time dashboards and market analysis
+- **[Investing Social](#)** — AI-powered social investing platform
+- **[FundBridge](#)** — AI-powered funding platform connecting startups with grants and investors
 
 ## 🚀 What I work with
 
 - WordPress & WooCommerce
-- PHP & JavaScript
-- Python & AI Automation
+- PHP, Python & JavaScript
+- AI Agents & Model Context Protocol (MCP)
 - REST APIs & System Integrations
 - Linux & Cloud Infrastructure
 - Digital Product Architecture
@@ -25,18 +29,9 @@ Currently I'm focused on building fintech products, risk management tools, AI ag
 - AI experiments
 - Automation workflows
 - Financial technology projects
-- Personal learning and technical studies
 
 ---
 
 ### 🌎 Connect with me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/fernando-scherer-cv/">
-<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
-</a>
-
-<a href="https://github.com/fernandosscherer?tab=followers">
-<img src="https://custom-icon-badges.demolab.com/github/followers/fernandosscherer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"/>
-</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/fernandoscherer-cv/) · [Portfolio](https://www.datamapleai.com)
